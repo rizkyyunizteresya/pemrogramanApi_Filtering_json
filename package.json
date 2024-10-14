@@ -1,0 +1,19 @@
+{
+  "name": "pemrograman_api",
+  "version": "1.0.0",
+  "description": "Cloning Repo pemrograman*api (\\_sudah di share ketua kelas*), push ke github masing-masing\r Tugas lanjutan video tutorial Dea Afrizal (customisasi dengan json buatan sendiri) dan lakukan fetch data\r Syarat:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  },
+  "keywords": []
+}

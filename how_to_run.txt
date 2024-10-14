@@ -1,0 +1,4 @@
+// ? npx ts-node index.ts all => untuk menampilkan seluruh data
+// ? npx ts-node index.ts name "Jhon doe" => untuk menampilkan data berdasarkan nama
+// ? npx ts-node index.ts city "New York" => untuk menampilkan data berdasarkan kota 
+// ? npx ts-node index.ts age 30 => untuk menampilkan data berdasarkan umur diatas 30 tahun
